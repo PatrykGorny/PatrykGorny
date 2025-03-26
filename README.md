@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Patryk!
+# 🤝 Hey, I’m Patryk!
 
 **A Computer Science student on a quest to master Application Development in Krakow.**
 
