@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Patryk!
 
-**A Computer Science student on a quest to master Application Development.**
+**A Computer Science student on a quest to master Application Development in Krakow.**
 
 
  💻 **I love building apps, solving (or creating) bugs, and experimenting with new technologies.**
