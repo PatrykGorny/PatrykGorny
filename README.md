@@ -7,7 +7,7 @@
  
 🐍 **Python? Love it. ☕ Java? Tolerable. Debugging? My daily emotional rollercoaster.**
 
-# Tools that I used/have used
+# Tools that I used
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
